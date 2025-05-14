@@ -42,10 +42,9 @@ O projeto tem como objetivo gerar um podcast de forma automatizada utilizando fe
 3. 🎨 Crie uma capa maravilhosa no ReveAI  
 4. 🎧 Edite tudo no CapCut  
 
-## 👩‍💻 Feito com afeto por Gabrielly NR
 
 ---
 
 <p align="center">
-    👩‍💻 Feito por  <span style="color:#73bbf2">#73bbf2</span>, <span style="color:#aa64e1">#aa64e1</span><span style="Gabrielly NR</span> 💖
+    👩‍💻 Feito por <span style="color:#aa64e1">Gabrielly NR</span> 💜
 </p>
