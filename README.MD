@@ -17,7 +17,7 @@
 
 > 🌟 Este repositório foi criado com muito carinho durante o Bootcamp da [DIO](https://dio.me), unindo tecnologia, criatividade e voz feminina! 💜
 
-O projeto tem como objetivo gerar um podcast de forma automatizada utilizando ferramentas de Inteligência Artificial, com foco em experiências femininas na tecnologia. Aqui a gente brinca com código, voz, criatividade e identidade visual!
+O projeto tem como objetivo gerar um podcast de forma automatizada utilizando ferramentas de Inteligência Artificial, com foco em experiências femininas na tecnologia. 
 
 ## 💻 Tecnologias utilizadas
 
@@ -47,5 +47,5 @@ O projeto tem como objetivo gerar um podcast de forma automatizada utilizando fe
 ---
 
 <p align="center">
-    Feito com carinho e nas cores da Codinárias: <span style="color:#73bbf2">#73bbf2</span>, <span style="color:#aa64e1">#aa64e1</span>, e <span style="color:#f5ede3">#f5ede3</span> 💖
+    👩‍💻 Feito por  <span style="color:#73bbf2">#73bbf2</span>, <span style="color:#aa64e1">#aa64e1</span><span style="Gabrielly NR</span> 💖
 </p>
